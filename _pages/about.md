@@ -37,7 +37,8 @@ My current interest is how AI-powered VR can better improve human-computer inter
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2024</div><img src='images/CHI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**LightSword: A Customized Virtual Reality Exergame for Long-Term Cognitive Inhibition Training in Older Adults** 
+<strong style="color: #0b2cd0">LightSword: A Customized Virtual Reality Exergame for Long-Term Cognitive Inhibition Training in Older Adults</strong>. 
+
   
 *Proceedings of the CHI Conference on Human Factors in Computing Systems (**CHI**), 2024*
 
