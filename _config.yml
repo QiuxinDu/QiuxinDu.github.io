@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Qiuxin Du(杜秋欣)"
+  name             : "Qiuxin Du (杜秋欣)" 
   avatar           : "images/qiuxin.jpg"
   bio              : "Beijing Institute of Technology (BIT)"
   location         : "Beijing, China"

@@ -55,7 +55,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2024</div><img src='images/CSCW2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**AI as a Bridge Across Ages: Exploring The Opportunities of Artificial Intelligence in Supporting Inter-Generational Communication in Virtual Reality** 
+**Research: AI as a Bridge Across Ages: Exploring The Opportunities of Artificial Intelligence in Supporting Inter-Generational Communication in Virtual Reality** 
   
 <p style="margin-top: 10px;">submitted to CSCW 2024</p>
 
@@ -67,6 +67,20 @@ redirect_from:
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/manyou.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Research: Cybersickness in Different Teleportation Modality** 
+
+<p style="margin-top: 8px;">plan to submit to ISMAR Journal 2024</p>
+<p style="margin-top: 8px;"><strong style="color: #0b2cd0">Qiuxin Du*</strong>, Jie Hao*, Jie Guo, Dongdong Weng</p>
+
+<p style="margin-top: 8px;">Compared VR cybersichness and cognitive load for three poses: lying down, sitting, standing, and four movement modalities: free teleportation, free roaming, preset teleportation, and preset roaming.<a href="https://drive.google.com/drive/home" target="_blank" style="color: #0b2cd0;text-decoration: none">Video</a> </p> 
+<p style="margin-top: 8px;">SSQ data and ECG signals were used to evaluate the results.</p>
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='assets/gif/eva.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -83,28 +97,11 @@ redirect_from:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/manyou.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Cybersickness in Different Teleportation Modality** 
-
-
-<p style="margin-top: 8px;"><strong style="color: #0b2cd0">Qiuxin Du*</strong>, Jie Hao*, Jie Guo, Dongdong Weng</p>
-
-<p style="margin-top: 8px;">Compared VR cybersichness and cognitive load for three poses: lying down, sitting, standing, and four movement modalities: free teleportation, free roaming, preset teleportation, and preset roaming.<a href="https://drive.google.com/drive/home" target="_blank" style="color: #0b2cd0;text-decoration: none">Video</a> </p> 
-<p style="margin-top: 8px;">SSQ data and ECG signals were used to evaluate the results.</p>
-
-</div>
-</div>
-
 # 🎖 Honors and Awards
 - *2023.06* Northern Industry Scholarship (only 26 students per year in BIT, Top 0.1%).
 - *2023.04* Youth Role Model in BIT (2022).
 - *2023.03* Gold Award in the 13th Challenge Cup.
 - *2022.08* Second Prize in The 8th Internet\+.
-
-
-
 
 
 
