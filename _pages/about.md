@@ -37,14 +37,14 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2024</div><img src='images/CHI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<p style="margin-bottom: 10px; margin-top: 10px"><strong>LightSword: A Customized Virtual Reality Exergame for Long-Term Cognitive Inhibition Training in Older Adults</strong></p>
+**LightSword: A Customized Virtual Reality Exergame for Long-Term Cognitive Inhibition Training in Older Adults** 
   
-<p style="margin-bottom: 10px; margin-top: 10px">CHI 2024</p>
+<p style="margin-top: 20px;">CHI 2024</p>
 
-<p style="margin-bottom: 10px; margin-top: 10px"><strong style="color: #0b2cd0">Qiuxin Du</strong>, Zhen Song, Haiyan Jiang, Xiaoying Wei, Dongdong Weng, Mingming Fan</p>
 
-<p style="margin-bottom: 10px; margin-top: 10px"><strong style="color: #0b2cd0">Papre</strong>, Zhen Song, Haiyan Jiang, Xiaoying Wei, Dongdong Weng, Mingming Fan</p>
+<p style="margin-top: 20px;"><strong style="color: #0b2cd0">Qiuxin Du</strong>, Zhen Song, Haiyan Jiang, Xiaoying Wei, Dongdong Weng, Mingming Fan</p>
 
+<p style="margin-top: 20px;"> </p>
 [Paper](https://arxiv.org/pdf/2312.08692.pdf) \| [Video](https://www.youtube.com/watch?v=Uf41_NL-tcU) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong> 
 </div>
 </div>
