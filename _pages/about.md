@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# About Me
+# 💻 About Me
 I am a Master research student in the VR Lab at <a href="https://www.bit.edu.cn/" target="_blank">Beijing Institute of Technology (BIT)</a>, advised by <a href="https://scholar.google.com/citations?user=DCRUAmAAAAAJ&hl=en" target="_blank">Prof. Dongdong Weng</a>, majoring in Virtual Reality and Human-Computer Interaction. Meanwhile, I am a visiting student at the Institute of Human-Computer Interaction and Media Integration at <a href="https://www.tsinghua.edu.cn/" target="_blank">Tsinghua University</a>, supervised by <a href="https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/" target="_blank">Prof. Chun Yu</a>. Prior to master, I obtained Bachelor of Engineering in Computer Science and technology at <a href="http://www.zzu.edu.cn/" target="_blank">Zhengzhou University</a> in 2021.
 
 I attended the HCIX Research Club and became a Research Assistant at the <a href="" target="_blank">APEX Lab of HKUST</a> led by <a href="" target="_blank">Prof. Mingming Fan</a>, independently supporting a HCI project. Before this, I was an intern in Light Illusions supervised by <a href="" target="_blank">Prof. Ping Tan</a> from June to August.
@@ -34,14 +34,12 @@ My current interest is how AI-powered VR can better improve human-computer inter
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2024</div><img src='images/CHI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **LightSword: A Customized Virtual Reality Exergame for Long-Term Cognitive Inhibition Training in Older Adults** 
   
 *Proceedings of the CHI Conference on Human Factors in Computing Systems (**CHI 2024**), 2024*
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Qiuxin Du**, Zhen Song, Haiyan Jiang, Xiaoying Wei, Dongdong Weng, Mingming Fan
 
