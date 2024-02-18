@@ -20,16 +20,16 @@ redirect_from:
 # 👩‍🎓 About Me
 I am a Master research student in the VR Lab at <a href="https://www.bit.edu.cn/" target="_blank" style="    color: #0b2cd0;text-decoration: none">Beijing Institute of Technology (BIT)</a>, advised by <a href="https://scholar.google.com/citations?user=DCRUAmAAAAAJ&hl=en" target="_blank" style="color: #0b2cd0;text-decoration: none">Prof. Dongdong Weng</a>, majoring in Virtual Reality and Human-Computer Interaction. Meanwhile, I am a visiting student at the Institute of Human-Computer Interaction and Media Integration at <a href="https://www.tsinghua.edu.cn/" target="_blank" style="color: #0b2cd0;text-decoration: none">Tsinghua University</a>, supervised by <a href="https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/" target="_blank" style="color: #0b2cd0;text-decoration: none">Prof. Chun Yu</a>. Prior to master, I obtained Bachelor of Engineering in Computer Science and technology at <a href="http://www.zzu.edu.cn/" target="_blank" style="color: #0b2cd0;text-decoration: none">Zhengzhou University</a> in 2021.
 
-I attended the HCIX Research Club and became a Research Assistant at the <a href="" target="_blank" style="color: #0b2cd0;text-decoration: none">APEX Lab of HKUST</a> led by <a href="" target="_blank" style="color: #0b2cd0;text-decoration: none">Prof. Mingming Fan</a>, independently supporting a HCI project. Before this, I was an intern in Light Illusions supervised by <a href="" target="_blank" style="color: #0b2cd0;text-decoration: none">Prof. Ping Tan</a> from June to August.
+I attended the HCIX Research Club and became a Research Assistant at the <a href="https://apex-group-hkust.netlify.app/" target="_blank" style="color: #0b2cd0;text-decoration: none">APEX Lab of HKUST</a> led by <a href="https://www.mingmingfan.com/" target="_blank" style="color: #0b2cd0;text-decoration: none">Prof. Mingming Fan</a>, independently supporting a HCI project. Before this, I was an intern in Light Illusions supervised by <a href="https://ece.hkust.edu.hk/pingtan" target="_blank" style="color: #0b2cd0;text-decoration: none">Prof. Ping Tan</a> from June to August.
 
 My current interest is how AI-powered VR can better improve human-computer interaction, especially in <strong style="color: #0b2cd0">Human-AI Collaboration</strong>. 
 
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 One paper is accepted by CHI 2024. 
-- *2024.01*: &nbsp;🎉🎉 One paper submitted to CSCW 2024. 
-- *2023.03*: &nbsp;🎉🎉 I have spent a wonderful week at IEEE VR 2023 in Shanghai.
-- *2022.08*: &nbsp;🎉🎉 One paper is accepted by ISMAR 2022 as a poster.
+- *2024.01*: &nbsp;🎉🎉 One paper is accepted by <a href="https://chi2024.acm.org/" target="_blank" style="color: #0b2cd0;text-decoration: none">CHI 2024</a>. 
+- *2024.01*: &nbsp;🎉🎉 One paper submitted to <a href="https://cscw.acm.org/2024/" target="_blank" style="color: #0b2cd0;text-decoration: none">CSCW 2024</a>. 
+- *2023.03*: &nbsp;🎉🎉 I have spent a wonderful week at <a href="https://ieeevr.org/2023/" target="_blank" style="color: #0b2cd0;text-decoration: none">IEEE VR 2023</a> in Shanghai.
+- *2022.08*: &nbsp;🎉🎉 One paper is accepted by <a href="https://ismar2022.vgtc.org/" target="_blank" style="color: #0b2cd0;text-decoration: none">ISMAR 2022</a> as a poster.
 
 
 # 📝 Publications 
