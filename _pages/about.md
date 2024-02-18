@@ -62,8 +62,11 @@ My current interest is how AI-powered VR can better improve human-computer inter
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.06* Northern Industry Scholarship (only 26 students per year in BIT, Top 0.1%).
+- *2023.04* Youth Role Model in BIT (2022).
+- *2023.03* Gold Award in the 13th Challenge Cup.
+- *2022.08* Second Prize in The 8th Internet\+.
+
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
