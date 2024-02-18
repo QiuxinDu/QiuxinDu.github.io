@@ -52,7 +52,7 @@ redirect_from:
 
 # 📖 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2024</div><img src='images/CSCW2024.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2024</div><img src='images/CSCW2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **AI as a Bridge Across Ages: Exploring The Opportunities of Artificial Intelligence in Supporting Inter-Generational Communication in Virtual Reality** 
@@ -63,6 +63,22 @@ redirect_from:
 <p style="margin-top: 10px;"><strong style="color: #0b2cd0">Qiuxin Du*</strong>, Xiaoying Wei*, Jiawei Li, Jie Hao, Emily Kuang, Dongdong Weng, Mingming Fan</p>
 
 <p style="margin-top: 10px;"><a href="assets\pdf\CSCW2024.pdf" target="_blank" style="color: #0b2cd0;text-decoration: none">Paper</a> | <a href="https://drive.google.com/drive/home" target="_blank" style="color: #0b2cd0;text-decoration: none">Video</a> | Code | BibTex <strong><span class="show_paper_citations" data="3WQTKocAAAAJ:WF5omc3nYNoC"></span></strong></p>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='assets/gif/eva.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Real-time High-fidelity Intelligent Virtual Agents** 
+  
+<p style="margin-top: 10px;">National Gold Award Work</p>
+
+<p style="margin-top: 10px;"><strong style="color: #0b2cd0">Qiuxin Du</strong>, Yihua Bao, Xiaonuo Dongye, Qinbo Yu, Zeyu Tian, Zhihe Zhao, Dongdong Weng</p>
+
+<p style="margin-top: 10px;">Designed and implemented a music-to-dance generation algorithm using PyTorch based on the Deep cross-modal Transformer, which achieves better performance than LSTM.</p> 
+<p style="margin-top: 10px;">Representative works: Lydia for Byte Dance, Digital Mei Lanfang, and Sign Language Agents for the Beijing Winter Olympic.</p>
 
 </div>
 </div>
