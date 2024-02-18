@@ -44,7 +44,7 @@ redirect_from:
 
 <p style="margin-top: 20px;"><strong style="color: #0b2cd0">Qiuxin Du</strong>, Zhen Song, Haiyan Jiang, Xiaoying Wei, Dongdong Weng, Mingming Fan</p>
 
-<p style="margin-top: 20px;"><a href="https://chi2024.acm.org/" target="_blank" style="color: #0b2cd0;text-decoration: none">Paper</a> | <a href="https://chi2024.acm.org/" target="_blank" style="color: #0b2cd0;text-decoration: none">Video</a> | Code | BibTex <strong><span class="show_paper_citations" data="3WQTKocAAAAJ:WF5omc3nYNoC"></span></strong></p>
+<p style="margin-top: 20px;"><a href="assets\pdf\CHI2024_CognitiveTraining.pdf" target="_blank" style="color: #0b2cd0;text-decoration: none">Paper</a> | <a href="https://chi2024.acm.org/" target="_blank" style="color: #0b2cd0;text-decoration: none">Video</a> | Code | BibTex <strong><span class="show_paper_citations" data="3WQTKocAAAAJ:WF5omc3nYNoC"></span></strong></p>
 
 </div>
 </div>
