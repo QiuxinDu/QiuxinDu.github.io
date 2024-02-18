@@ -17,14 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a Master research student in the VR Lab at <a href="https://www.bit.edu.cn/" target="_blank">Beijing Institute of Technology (BIT)</a>, advised by <a href="https://scholar.google.com/citations?user=DCRUAmAAAAAJ&hl=en" target="_blank">Prof. Dongdong Weng</a>, majoring in Virtual Reality and Human-Computer Interaction. Meanwhile, I am a visiting student at the Institute of Human-Computer Interaction and Media Integration at <a href="https://www.tsinghua.edu.cn/" target="_blank">Tsinghua University</a>, supervised by <a href="https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/" target="_blank">Prof. Chun Yu</a>. Prior to master, I obtained Bachelor of Engineering in Computer Science and technology at <a href="http://www.zzu.edu.cn/" target="_blank">Zhengzhou University</a> in 2021.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I attended the HCIX Research Club and became a Research Assistant at the <a href="" target="_blank">APEX Lab of HKUST</a> led by <a href="" target="_blank">Prof. Mingming Fan</a>, independently supporting a HCI project. Before this, I was an intern in Light Illusions supervised by <a href="" target="_blank">Prof. Ping Tan</a> from June to August.
+
+My current interest is how AI-powered VR can better improve human-computer interaction, especially in <strong>Human-AI Collaboration</strong>. 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.01*: &nbsp;🎉🎉 Our work "LightSword: A Customized Virtual Reality Exergame for Long-Term Cognitive Inhibition Training in Older Adults" was accepted by CHI 2024. 
+- *2024.01*: &nbsp;🎉🎉 Our work "AI as a Bridge Across Ages: Exploring The Opportunities of Artificial Intelligence in Supporting Inter-Generational Communication in Virtual Reality" submitted to CSCW 2024. 
+- *2023.03*: &nbsp;🎉🎉 I have spent a wonderful week at IEEE VR 2023 in Shanghai. It is my pleasure to learn new works as well as meet many new friends.
+- *2023.03*: &nbsp;🎉🎉 I won the National Gold Award at the 13th Challenge Cup with my work Realistic Intelligent Digital Human (EVA).
+- *2022.08*: &nbsp;🎉🎉 Our work "A Stroop-based Long-term Cognitive Training Game for the Elderly in Head-mounted Displays" was accepted by ISMAR 2022 as a poster.
 
 # 📝 Publications 
 
