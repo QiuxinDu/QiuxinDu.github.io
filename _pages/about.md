@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👩‍🎓 About Me
-<p style="line-height: 1.7">I am a Master research student in the VR Lab at <a href="https://www.bit.edu.cn/" target="_blank" style="    color: #0b2cd0;text-decoration: none">Beijing Institute of Technology (BIT)</a>, advised by <a href="https://scholar.google.com/citations?user=DCRUAmAAAAAJ&amp;hl=en" target="_blank" style="color: #0b2cd0;text-decoration: none">Prof. Dongdong Weng</a>, majoring in Virtual Reality and Human-Computer Interaction. Meanwhile, I am a visiting student at the Institute of Human-Computer Interaction and Media Integration at <a href="https://www.tsinghua.edu.cn/" target="_blank" style="color: #0b2cd0;text-decoration: none">Tsinghua University</a>, supervised by <a href="https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/" target="_blank" style="color: #0b2cd0;text-decoration: none">Prof. Chun Yu</a>. Prior to master, I obtained Bachelor of Engineering in Computer Science and technology at <a href="http://www.zzu.edu.cn/" target="_blank" style="color: #0b2cd0;text-decoration: none">Zhengzhou University</a> in 2021.</p>
+<p style="line-height: 1.7">I am a Master research student in the VR Lab at <a href="https://www.bit.edu.cn/" target="_blank" style="color: #0b2cd0;text-decoration: none">Beijing Institute of Technology (BIT)</a>, advised by <a href="https://scholar.google.com/citations?user=DCRUAmAAAAAJ&amp;hl=en" target="_blank" style="color: #0b2cd0;text-decoration: none">Prof. Dongdong Weng</a>, majoring in Virtual Reality and Human-Computer Interaction. Meanwhile, I am a visiting student at the Institute of Human-Computer Interaction and Media Integration at <a href="https://www.tsinghua.edu.cn/" target="_blank" style="color: #0b2cd0;text-decoration: none">Tsinghua University</a>, supervised by <a href="https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/" target="_blank" style="color: #0b2cd0;text-decoration: none">Prof. Chun Yu</a>. Prior to master, I obtained Bachelor of Engineering in Computer Science and technology at <a href="http://www.zzu.edu.cn/" target="_blank" style="color: #0b2cd0;text-decoration: none">Zhengzhou University</a> in 2021.</p>
 
 <p style="line-height: 1.7">I attended the HCIX Research Club and became a Research Assistant at the <a href="https://apex-group-hkust.netlify.app/" target="_blank" style="color: #0b2cd0;text-decoration: none">APEX Lab of HKUST</a> led by <a href="https://www.mingmingfan.com/" target="_blank" style="color: #0b2cd0;text-decoration: none">Prof. Mingming Fan</a>, independently supporting a HCI project. Before this, I was an intern in Light Illusions supervised by <a href="https://ece.hkust.edu.hk/pingtan" target="_blank" style="color: #0b2cd0;text-decoration: none">Prof. Ping Tan</a> from June to August.</p>
 
@@ -37,15 +37,13 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2024</div><img src='images/CHI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**LightSword: A Customized Virtual Reality Exergame for Long-Term Cognitive Inhibition Training in Older Adults** 
+<p style="margin-bottom: 10px; margin-top: 10px"><strong>LightSword: A Customized Virtual Reality Exergame for Long-Term Cognitive Inhibition Training in Older Adults</strong></p>
   
-<p style="margin-bottom: 20px;">CHI 2024</p>
+<p style="margin-bottom: 10px; margin-top: 10px">CHI 2024</p>
 
+<p style="margin-bottom: 10px; margin-top: 10px"><strong style="color: #0b2cd0">Qiuxin Du</strong>, Zhen Song, Haiyan Jiang, Xiaoying Wei, Dongdong Weng, Mingming Fan</p>
 
-<p style="margin-bottom: 20px;"><strong style="color: #0b2cd0">Qiuxin Du</strong>, Zhen Song, Haiyan Jiang, Xiaoying Wei, Dongdong Weng, Mingming Fan</p>
-
-
-[Paper](https://arxiv.org/pdf/2312.08692.pdf) \| [Video](https://www.youtube.com/watch?v=Uf41_NL-tcU) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong> 
+<p style="margin-bottom: 10px; margin-top: 10px"><a href="https://www.bit.edu.cn/" target="_blank" style="color: #0b2cd0;text-decoration: none">Paper</a>\| <a href="https://www.bit.edu.cn/" target="_blank" style="color: #0b2cd0;text-decoration: none">Video</a> \| Code \| BibTex  
 </div>
 </div>
 
