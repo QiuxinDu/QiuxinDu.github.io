@@ -44,7 +44,7 @@ redirect_from:
 
 <p style="margin-top: 20px;"><strong style="color: #0b2cd0">Qiuxin Du</strong>, Zhen Song, Haiyan Jiang, Xiaoying Wei, Dongdong Weng, Mingming Fan</p>
 
-<p style="margin-top: 20px;"><a href="assets\pdf\CHI2024_CognitiveTraining.pdf" target="_blank" style="color: #0b2cd0;text-decoration: none">Paper</a> | <a href="https://drive.google.com/drive/home/" target="_blank" style="color: #0b2cd0;text-decoration: none">Video</a> | Code | BibTex <strong><span class="show_paper_citations" data="3WQTKocAAAAJ:WF5omc3nYNoC"></span></strong></p>
+<p style="margin-top: 20px;"><a href="assets\pdf\CHI2024_CognitiveTraining.pdf" target="_blank" style="color: #0b2cd0;text-decoration: none">Paper</a> | <a href="https://drive.google.com/drive/home" target="_blank" style="color: #0b2cd0;text-decoration: none">Video</a> | Code | BibTex <strong><span class="show_paper_citations" data="3WQTKocAAAAJ:WF5omc3nYNoC"></span></strong></p>
 
 </div>
 </div>
@@ -52,7 +52,7 @@ redirect_from:
 
 # 📖 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2024</div><img src='images/CSCW2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2024</div><img src='images/CSCW2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **AI as a Bridge Across Ages: Exploring The Opportunities of Artificial Intelligence in Supporting Inter-Generational Communication in Virtual Reality** 
