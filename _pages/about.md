@@ -47,7 +47,7 @@ My current interest is how AI-powered VR can better improve human-computer inter
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2024</div><img src='images/CHI2024.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2024</div><img src='images/CSCW2024.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **AI as a Bridge Across Ages: Exploring The Opportunities of Artificial Intelligence in Supporting Inter-Generational Communication in Virtual Reality** 
