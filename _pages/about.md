@@ -47,7 +47,19 @@ My current interest is how AI-powered VR can better improve human-computer inter
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2024</div><img src='images/CHI2024.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**AI as a Bridge Across Ages: Exploring The Opportunities of Artificial Intelligence in Supporting Inter-Generational Communication in Virtual Reality** 
+  
+*ACM Conference on Computer Supported Cooperative Work and Social Computing (**CSCW**), 2024*
+
+**Qiuxin Du\***, Xiaoying Wei\*, Jiawei Li, Jie Hao, Emily Kuang, Dongdong Weng, Mingming Fan
+
+[Paper](https://arxiv.org/pdf/2312.08692.pdf) \| [Video](https://www.youtube.com/watch?v=Uf41_NL-tcU) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong> 
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
