@@ -44,21 +44,26 @@ redirect_from:
 
 <p style="margin-top: 20px;"><strong style="color: #0b2cd0">Qiuxin Du</strong>, Zhen Song, Haiyan Jiang, Xiaoying Wei, Dongdong Weng, Mingming Fan</p>
 
-<p style="margin-top: 20px;"><a href="assets\pdf\CHI2024_CognitiveTraining.pdf" target="_blank" style="color: #0b2cd0;text-decoration: none">Paper</a> | <a href="https://chi2024.acm.org/" target="_blank" style="color: #0b2cd0;text-decoration: none">Video</a> | Code | BibTex <strong><span class="show_paper_citations" data="3WQTKocAAAAJ:WF5omc3nYNoC"></span></strong></p>
+<p style="margin-top: 20px;"><a href="assets\pdf\CHI2024_CognitiveTraining.pdf" target="_blank" style="color: #0b2cd0;text-decoration: none">Paper</a> | <a href="https://drive.google.com/drive/home/" target="_blank" style="color: #0b2cd0;text-decoration: none">Video</a> | Code | BibTex <strong><span class="show_paper_citations" data="3WQTKocAAAAJ:WF5omc3nYNoC"></span></strong></p>
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2024</div><img src='images/CSCW2024.jpg' alt="sym" width="100%"></div></div>
+
+# 📖 Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2024</div><img src='images/CSCW2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **AI as a Bridge Across Ages: Exploring The Opportunities of Artificial Intelligence in Supporting Inter-Generational Communication in Virtual Reality** 
   
-*ACM Conference on Computer Supported Cooperative Work and Social Computing (**CSCW**), 2024*
+<p style="margin-top: 10px;">submitted to CSCW 2024</p>
 
-**Qiuxin Du\***, Xiaoying Wei\*, Jiawei Li, Jie Hao, Emily Kuang, Dongdong Weng, Mingming Fan
 
-[Paper](https://arxiv.org/pdf/2312.08692.pdf) \| [Video](https://www.youtube.com/watch?v=Uf41_NL-tcU) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong> 
+<p style="margin-top: 10px;"><strong style="color: #0b2cd0">Qiuxin Du*</strong>, Xiaoying Wei*, Jiawei Li, Jie Hao, Emily Kuang, Dongdong Weng, Mingming Fan</p>
+
+<p style="margin-top: 10px;"><a href="assets\pdf\CSCW2024.pdf" target="_blank" style="color: #0b2cd0;text-decoration: none">Paper</a> | <a href="https://drive.google.com/drive/home" target="_blank" style="color: #0b2cd0;text-decoration: none">Video</a> | Code | BibTex <strong><span class="show_paper_citations" data="3WQTKocAAAAJ:WF5omc3nYNoC"></span></strong></p>
+
 </div>
 </div>
 
@@ -70,9 +75,7 @@ redirect_from:
 - *2022.08* Second Prize in The 8th Internet\+.
 
 
-# 📖 Educations
-- *2021.09 - present* \| M.Sc. \| [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/)
-- *2017.09 - 2021.07* \| B.E. \| [Zhengzhou University (ZZU)](http://www.zzu.edu.cn/)
+
 
 
 
