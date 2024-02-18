@@ -41,7 +41,7 @@ redirect_from:
   
 <p style="margin-bottom: 10px; margin-top: 10px">CHI 2024</p>
 
-<p style="margin-bottom: 10px; margin-top: 10px"><strong style="color: #0b2cd0">Qiuxin Du</strong>, Zhen Song, Haiyan Jiang, Xiaoying Wei, Dongdong Weng, Mingming Fan</p>
+<p style="margin-bottom: 10px; margin-top: 10px"><a href="https://scholar.google.com/citations?user=IxK7cnAAAAAJ" target="_blank" style="color: #0b2cd0;text-decoration: none">Qiuxin Du</a>, Zhen Song, Haiyan Jiang, Xiaoying Wei, Dongdong Weng, Mingming Fan</p>
 
 <p style="margin-bottom: 10px; margin-top: 10px"><a href="https://www.bit.edu.cn/" target="_blank" style="color: #0b2cd0;text-decoration: none">Paper</a>\| <a href="https://www.bit.edu.cn/" target="_blank" style="color: #0b2cd0;text-decoration: none">Video</a> \| Code \| BibTex  
 </div>
