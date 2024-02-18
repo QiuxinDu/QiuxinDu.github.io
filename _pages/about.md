@@ -98,10 +98,10 @@ redirect_from:
 
 
 # 🎖 Honors and Awards
-- *2023.06* Northern Industry Scholarship (only 26 students per year in BIT, Top 0.1%).
-- *2023.04* Youth Role Model in BIT (2022).
-- *2023.03* Gold Award in the 13th Challenge Cup.
-- *2022.08* Second Prize in The 8th Internet\+.
+- *2023.06*  Northern Industry Scholarship (only 26 students per year in BIT, Top 0.1%).
+- *2023.04*  Youth Role Model in BIT (2023).
+- *2023.03*  Gold Award in the 13th Challenge Cup.
+- *2022.08*  Second Prize in The 8th Internet\+.
 
 
 
