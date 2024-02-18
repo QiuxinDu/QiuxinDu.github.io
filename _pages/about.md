@@ -77,11 +77,25 @@ redirect_from:
 <p style="margin-top: 8px;"><strong style="color: #0b2cd0">Qiuxin Du</strong>, Yihua Bao, Xiaonuo Dongye, Qinbo Yu, Zeyu Tian, Zhihe Zhao, Dongdong Weng</p>
 
 <p style="margin-top: 8px;">Designed and implemented a motion generation algorithm using PyTorch based on the Deep cross-modal Transformer, which achieves better performance than LSTM.</p> 
-<p style="margin-top: 8px;">Representative works: <a href="https://space.bilibili.com/1943410799?spm_id_from=333.337.0.0" target="_blank" style="color: #0b2cd0;text-decoration: none">Lydia</a> for Byte Dance, Digital <a href="https://www.bilibili.com/video/BV1Pq4y1c7bw/?spm_id_from=333.337.search-card.all.click&vd_source=cc9abae04a88edf06d4e63651c404199" target="_blank" style="color: #0b2cd0;text-decoration: none">Mei Lanfang</a>, and Sign Language Agents for the Beijing Winter Olympic.</p>
+<p style="margin-top: 8px;">Representative works: <a href="https://space.bilibili.com/1943410799?spm_id_from=333.337.0.0" target="_blank" style="color: #0b2cd0;text-decoration: none">Lydia</a> for Byte Dance, Digital <a href="https://www.bilibili.com/video/BV1Pq4y1c7bw/?spm_id_from=333.337.search-card.all.click&vd_source=cc9abae04a88edf06d4e63651c404199" target="_blank" style="color: #0b2cd0;text-decoration: none">Mei Lanfang</a>, and Sign Language Virtual Agents.</p>
 
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/manyou.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Cybersickness in Different Teleportation Modality** 
+
+
+<p style="margin-top: 8px;"><strong style="color: #0b2cd0">Qiuxin Du*</strong>, Jie Hao*, Jie Guo, Dongdong Weng</p>
+
+<p style="margin-top: 8px;">Compared VR cybersichness and cognitive load for three poses: lying down, sitting, standing, and four movement modalities: free teleportation, free roaming, preset teleportation, and preset roaming.<a href="https://drive.google.com/drive/home" target="_blank" style="color: #0b2cd0;text-decoration: none">Video</a> </p> 
+<p style="margin-top: 8px;">SSQ data and ECG signals were used to evaluate the results.</p>
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2023.06* Northern Industry Scholarship (only 26 students per year in BIT, Top 0.1%).
