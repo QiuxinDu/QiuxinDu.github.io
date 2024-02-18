@@ -34,16 +34,16 @@ My current interest is how AI-powered VR can better improve human-computer inter
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2024</div><img src='images/CHI2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2024</div><img src='images/CHI2024.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **LightSword: A Customized Virtual Reality Exergame for Long-Term Cognitive Inhibition Training in Older Adults** 
   
-*Proceedings of the CHI Conference on Human Factors in Computing Systems (**CHI 2024**), 2024*
+*Proceedings of the CHI Conference on Human Factors in Computing Systems (**CHI**), 2024*
 
 **Qiuxin Du**, Zhen Song, Haiyan Jiang, Xiaoying Wei, Dongdong Weng, Mingming Fan
 
-[Paper](https://arxiv.org/pdf/2312.08692.pdf) \| [Video](https://www.youtube.com/watch?v=Uf41_NL-tcU) \| [code] \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong> 
+[Paper](https://arxiv.org/pdf/2312.08692.pdf) \| [Video](https://www.youtube.com/watch?v=Uf41_NL-tcU) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong> 
 </div>
 </div>
 
