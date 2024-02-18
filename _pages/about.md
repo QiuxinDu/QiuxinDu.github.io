@@ -39,9 +39,11 @@ redirect_from:
 
 **LightSword: A Customized Virtual Reality Exergame for Long-Term Cognitive Inhibition Training in Older Adults** 
   
-*Proceedings of the CHI Conference on Human Factors in Computing Systems (**CHI**), 2024*
+<p>CHI 2024</p>
+<p> </p>
 
 **Qiuxin Du**, Zhen Song, Haiyan Jiang, Xiaoying Wei, Dongdong Weng, Mingming Fan
+<p> </p>
 
 [Paper](https://arxiv.org/pdf/2312.08692.pdf) \| [Video](https://www.youtube.com/watch?v=Uf41_NL-tcU) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong> 
 </div>
