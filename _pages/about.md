@@ -74,7 +74,7 @@ redirect_from:
 **Research: Cybersickness in Different Teleportation Modality** 
 
 <p style="margin-top: 8px;">plan to submit to ISMAR Journal 2024</p>
-<p style="margin-top: 8px;"><strong style="color: #0b2cd0">Qiuxin Du*</strong>, Jie Hao*, Jie Guo, Dongdong Weng</p>
+<p style="margin-top: 8px;">Jie Hao, <strong style="color: #0b2cd0">Qiuxin Du</strong>, Jie Guo, Dongdong Weng</p>
 
 <p style="margin-top: 8px;">Compared VR cybersichness and cognitive load for three poses: lying down, sitting, standing, and four movement modalities: free teleportation, free roaming, preset teleportation, and preset roaming.<a href="https://drive.google.com/drive/home" target="_blank" style="color: #0b2cd0;text-decoration: none">Video</a> </p> 
 <p style="margin-top: 8px;">SSQ data and ECG signals were used to evaluate the results.</p>
