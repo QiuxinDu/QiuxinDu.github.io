@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👩‍🎓 About Me
-<p style="line-height: 1.7">I am a research intern at HKUST, supervised by Xiaojuan Ma <a href="https://www.cse.ust.hk/~mxj/">. Previously, I obtained master's degree in the VR Lab at <a href="https://www.bit.edu.cn/" target="_blank" style="    color: #0b2cd0;text-decoration: none">Beijing Institute of Technology (BIT)</a>, advised by <a href="https://scholar.google.com/citations?user=DCRUAmAAAAAJ&amp;hl=en" target="_blank" style="color: #0b2cd0;text-decoration: none">Prof. Dongdong Weng</a>, majoring in Virtual Reality and Human-Computer Interaction. Prior to master, I obtained bachelor's degree in Computer Science and technology at <a href="http://www.zzu.edu.cn/" target="_blank" style="color: #0b2cd0;text-decoration: none">Zhengzhou University</a> in 2021.</p>
+<p style="line-height: 1.7">I am a research intern at HKUST, supervised by <a href="https://scholar.google.com/citations?user=DCRUAmAAAAAJ&amp;hl=en" target="_blank" style="color: #0b2cd0;text-decoration: none">Xiaojuan Ma</a>. Previously, I obtained master's degree in the VR Lab at <a href="https://www.bit.edu.cn/" target="_blank" style="    color: #0b2cd0;text-decoration: none">Beijing Institute of Technology (BIT)</a>, advised by <a href="https://scholar.google.com/citations?user=DCRUAmAAAAAJ&amp;hl=en" target="_blank" style="color: #0b2cd0;text-decoration: none">Prof. Dongdong Weng</a>, majoring in Virtual Reality and Human-Computer Interaction. Prior to master, I obtained bachelor's degree in Computer Science and technology at <a href="http://www.zzu.edu.cn/" target="_blank" style="color: #0b2cd0;text-decoration: none">Zhengzhou University</a> in 2021.</p>
 
 <p style="line-height: 1.7">I attended the HCIX Research Club and became a Research Assistant at the <a href="https://apex-group-hkust.netlify.app/" target="_blank" style="color: #0b2cd0;text-decoration: none">APEX Lab of HKUST</a> led by <a href="https://www.mingmingfan.com/" target="_blank" style="color: #0b2cd0;text-decoration: none">Prof. Mingming Fan</a>, independently supporting a HCI project. Before this, I was an intern in Light Illusions supervised by <a href="https://ece.hkust.edu.hk/pingtan" target="_blank" style="color: #0b2cd0;text-decoration: none">Prof. Ping Tan</a> from June to August.</p>
 
@@ -26,7 +26,7 @@ redirect_from:
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 I submitted the major revisions for <a href="https://cscw.acm.org/2024/" target="_blank" style="color: #0b2cd0;text-decoration: none">CSCW 2024</a>. 
+- *2024.07*: &nbsp;🎉🎉 I submitted the major revision for <a href="https://cscw.acm.org/2024/" target="_blank" style="color: #0b2cd0;text-decoration: none">CSCW 2024</a>. 
 - *2024.05*: &nbsp;🎉🎉 I have spent a wonderful week at <a href="https://ieeevr.org/2023/" target="_blank" style="color: #0b2cd0;text-decoration: none">CHI 2024</a> in Hawaii. It was my pleasure to present <a href="https://dl.acm.org/doi/abs/10.1145/3613904.3642187" target="_blank" style="color: #0b2cd0;text-decoration: none">my work</a> as well as meet many new friends!
 - *2024.01*: &nbsp;🎉🎉 One paper is accepted by <a href="https://chi2024.acm.org/" target="_blank" style="color: #0b2cd0;text-decoration: none">CHI 2024</a>. 
 - *2024.01*: &nbsp;🎉🎉 One paper submitted to <a href="https://cscw.acm.org/2024/" target="_blank" style="color: #0b2cd0;text-decoration: none">CSCW 2024</a>. 
