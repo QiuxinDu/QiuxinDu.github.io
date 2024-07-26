@@ -47,6 +47,8 @@ redirect_from:
 
 <p style="margin-top: 20px;"><strong style="color: #0b2cd0">Qiuxin Du</strong>, Zhen Song, Haiyan Jiang, Xiaoying Wei, Dongdong Weng, Mingming Fan</p>
 
+<p style="margin-top: 20px;">Developed an age-friendly VR game using Unity based on cognitive activation paradigms and adaptive difficulty algorithms. Conducted an eight-month user study with 12 older adults, demonstrating that the game improved cognitive performance in older adults, with benefits lasting for six months.</p>
+
 <p style="margin-top: 20px;"><a href="assets\pdf\CHI2024_CognitiveTraining.pdf" target="_blank" style="color: #0b2cd0;text-decoration: none">Paper</a> | <a href="https://drive.google.com/drive/home" target="_blank" style="color: #0b2cd0;text-decoration: none">Video</a> | Code | BibTex <strong><span class="show_paper_citations" data="3WQTKocAAAAJ:WF5omc3nYNoC"></span></strong></p>
 
 </div>
@@ -60,12 +62,14 @@ redirect_from:
 
 **Research: AI as a Bridge Across Ages: Exploring The Opportunities of Artificial Intelligence in Supporting Inter-Generational Communication in Virtual Reality** 
   
-<p style="margin-top: 10px;">submitted to CSCW 2024</p>
+<p style="margin-top: 10px;">Submitted major revision for CSCW 2024</p>
 
 
 <p style="margin-top: 10px;"><strong style="color: #0b2cd0">Qiuxin Du*</strong>, Xiaoying Wei*, Jiawei Li, Jie Hao, Emily Kuang, Dongdong Weng, Mingming Fan</p>
 
-<p style="margin-top: 10px;"><a href="assets\pdf\CSCW2024.pdf" target="_blank" style="color: #0b2cd0;text-decoration: none">Paper</a> | <a href="https://drive.google.com/drive/home" target="_blank" style="color: #0b2cd0;text-decoration: none">Video</a> | Code | BibTex <strong><span class="show_paper_citations" data="3WQTKocAAAAJ:WF5omc3nYNoC"></span></strong></p>
+<p style="margin-top: 20px;">Developed an AI-powered VR system using UE for inter-generational communication (IGC), integrating LLM, Text2Image, scene switching, and emotional visualization based on keyword detection technology. Conducted a user study with 12 pairs participants, revealing the advantages and challenges of AI-powered VR for IGC.</p>
+
+<p style="margin-top: 10px;">Paper | <a href="https://drive.google.com/drive/home" target="_blank" style="color: #0b2cd0;text-decoration: none">Video</a> | Code | BibTex <strong><span class="show_paper_citations" data="3WQTKocAAAAJ:WF5omc3nYNoC"></span></strong></p>
 
 </div>
 </div>
@@ -74,13 +78,15 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/manyou.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Research: Cybersickness in Different Teleportation Modality** 
+**Exploration of Game Roaming in Virtual Environments: The Interplay of Posture, Interaction Freedom, and Locomotion** 
 
-<p style="margin-top: 8px;">plan to submit to ISMAR Journal 2024</p>
-<p style="margin-top: 8px;">Jie Hao, <strong style="color: #0b2cd0">Qiuxin Du</strong>, Jie Guo, Dongdong Weng</p>
+<p style="margin-top: 8px;">Submitted to IJHCI</p>
 
-<p style="margin-top: 8px;">Compared VR cybersichness and cognitive load for three poses: lying down, sitting, standing, and four movement modalities: free teleportation, free roaming, preset teleportation, and preset roaming.<a href="https://drive.google.com/drive/home" target="_blank" style="color: #0b2cd0;text-decoration: none">Video</a> </p> 
-<p style="margin-top: 8px;">SSQ data and ECG signals were used to evaluate the results.</p>
+<p style="margin-top: 8px;">Jie Hao, <strong style="color: #0b2cd0">Qiuxin Du</strong>, Ming Li, Bin Liang, Jie Guo, Dongdong Weng, Yongtian Wang</p>
+
+<p style="margin-top: 8px;">Using SSQ data and ECG signals to investigate the effects of body posture, interaction freedom, and locomotion method on user experience and cognitive load in VR, focusing on cybersickness, sense of presence, and workload.</p>
+
+<p style="margin-top: 10px;">Paper | <a href="https://drive.google.com/drive/home" target="_blank" style="color: #0b2cd0;text-decoration: none">Video</a> | Code | BibTex <strong><span class="show_paper_citations" data="3WQTKocAAAAJ:WF5omc3nYNoC"></span></strong></p>
 
 </div>
 </div>
@@ -93,18 +99,22 @@ redirect_from:
 
 <p style="margin-top: 8px;"><strong style="color: #0b2cd0">Qiuxin Du</strong>, Yihua Bao, Xiaonuo Dongye, Qinbo Yu, Zeyu Tian, Zhihe Zhao, Dongdong Weng</p>
 
-<p style="margin-top: 8px;">Designed and implemented a motion generation algorithm using PyTorch based on the Deep cross-modal Transformer, which achieves better performance than LSTM.</p> 
+<p style="margin-top: 8px;">To achieve realistic appearances, proposed a deep learning-based method for automatic generation of digital human expressions and movements; for intelligent dialogue, integrated LLM into the system.</p> 
 <p style="margin-top: 8px;">Representative works: <a href="https://space.bilibili.com/1943410799?spm_id_from=333.337.0.0" target="_blank" style="color: #0b2cd0;text-decoration: none">Lydia</a> for Byte Dance, Digital <a href="https://www.bilibili.com/video/BV1Pq4y1c7bw/?spm_id_from=333.337.search-card.all.click&vd_source=cc9abae04a88edf06d4e63651c404199" target="_blank" style="color: #0b2cd0;text-decoration: none">Mei Lanfang</a>, and Sign Language Virtual Agents.</p>
 
+<p style="margin-top: 8px;">Win National Gold Award as First Author with our work</p>
 </div>
 </div>
 
 
 # 🎖 Honors and Awards
+- *2024.07*  Outstanding Graduate in Beijing and BIT.
 - *2023.06*  Northern Industry Scholarship (only 26 students per year in BIT, Top 0.1%).
-- *2023.04*  Youth Role Model in BIT (2023).
+- *2023.05*  Youth Role Model in BIT (2023).
 - *2023.03*  Gold Award in the 13th Challenge Cup.
 - *2022.08*  Second Prize in The 8th Internet\+.
+- *2021.07*  Outstanding Graduate in ZZU.
+- *2018.12*  Honor Student in Henan Provinces.
 
 
 
