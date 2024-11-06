@@ -26,10 +26,12 @@ redirect_from:
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 I submitted the major revision for <a href="https://cscw.acm.org/2024/" target="_blank" style="color: #0b2cd0;text-decoration: none">CSCW 2024</a>. 
+- *2024.10*: &nbsp;🎉🎉 One paper was accepted by <a href="https://icxr.net/2024/index.html" target="_blank" style="color: #0b2cd0;text-decoration: none">ICXR 2024</a>. 
+- *2024.09*: &nbsp;🎉🎉 One paper was accepted by <a href="https://cscw.acm.org/2025/" target="_blank" style="color: #0b2cd0;text-decoration: none">CSCW 2025</a>. 
+- *2024.09*: &nbsp;🎉🎉 One paper submitted to <a href="One paper submitted to" target="_blank" style="color: #0b2cd0;text-decoration: none">CHI 2025</a>. 
 - *2024.07*: &nbsp;🎉🎉 One paper submitted to <a href="https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=hihc20" target="_blank" style="color: #0b2cd0;text-decoration: none">IJHCI</a>. 
 - *2024.05*: &nbsp;🎉🎉 I have spent a wonderful week at <a href="https://ieeevr.org/2023/" target="_blank" style="color: #0b2cd0;text-decoration: none">CHI 2024</a> in Hawaii. It was my pleasure to present <a href="https://dl.acm.org/doi/abs/10.1145/3613904.3642187" target="_blank" style="color: #0b2cd0;text-decoration: none">my work</a> as well as meet many new friends!
-- *2024.01*: &nbsp;🎉🎉 One paper is accepted by <a href="https://chi2024.acm.org/" target="_blank" style="color: #0b2cd0;text-decoration: none">CHI 2024</a>. 
+- *2024.01*: &nbsp;🎉🎉 One paper was accepted by <a href="https://chi2024.acm.org/" target="_blank" style="color: #0b2cd0;text-decoration: none">CHI 2024</a>. 
 - *2024.01*: &nbsp;🎉🎉 One paper submitted to <a href="https://cscw.acm.org/2024/" target="_blank" style="color: #0b2cd0;text-decoration: none">CSCW 2024</a>. 
 - *2023.03*: &nbsp;🎉🎉 I have spent a wonderful week at <a href="https://ieeevr.org/2023/" target="_blank" style="color: #0b2cd0;text-decoration: none">IEEE VR 2023</a> in Shanghai.
 - *2022.08*: &nbsp;🎉🎉 One paper is accepted by <a href="https://ismar2022.vgtc.org/" target="_blank" style="color: #0b2cd0;text-decoration: none">ISMAR 2022</a> as a poster.
@@ -54,15 +56,12 @@ redirect_from:
 </div>
 </div>
 
-
-# 📖 Projects
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2024</div><img src='images/CSCW2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Research: AI as a Bridge Across Ages: Exploring The Opportunities of Artificial Intelligence in Supporting Inter-Generational Communication in Virtual Reality** 
   
-<p style="margin-top: 10px;">Submitted major revision for CSCW 2024</p>
+<p style="margin-top: 10px;">CSCW 2025</p>
 
 
 <p style="margin-top: 10px;"><strong style="color: #0b2cd0">Qiuxin Du*</strong>, Xiaoying Wei*, Jiawei Li, Jie Hao, Emily Kuang, Dongdong Weng, Mingming Fan</p>
@@ -73,6 +72,10 @@ redirect_from:
 
 </div>
 </div>
+
+
+# 📖 Projects
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/manyou.png' alt="sym" width="100%"></div></div>
@@ -115,6 +118,8 @@ redirect_from:
 - *2022.08*  Second Prize in The 8th Internet\+.
 - *2021.07*  Outstanding Graduate in ZZU.
 - *2018.12*  Honor Student in Henan Provinces.
+
+
 
 
 
