@@ -49,14 +49,14 @@ redirect_from:
 
 <p style="margin-top: 20px;"><strong style="color: #0b2cd0">Qiuxin Du</strong>, Zhen Song, Haiyan Jiang, Xiaoying Wei, Dongdong Weng, Mingming Fan</p>
 
-<p style="margin-top: 20px;">Developed an age-friendly VR game using Unity based on cognitive activation paradigms and adaptive difficulty algorithms. Conducted an eight-month user study with 12 older adults, demonstrating that the game improved cognitive performance in older adults, with benefits lasting for six months.</p>
+<p style="margin-top: 20px;">Developed an age-friendly VR exergame using Unity based on cognitive activation paradigms and adaptive difficulty algorithms. Conducted an eight-month user study with 12 older adults, demonstrating that the game improved cognitive performance in older adults, with benefits lasting for six months.</p>
 
 <p style="margin-top: 20px;"><a href="assets\pdf\CHI2024_CognitiveTraining.pdf" target="_blank" style="color: #0b2cd0;text-decoration: none">Paper</a> | <a href="https://drive.google.com/drive/home" target="_blank" style="color: #0b2cd0;text-decoration: none">Video</a> | Code | BibTex <strong><span class="show_paper_citations" data="3WQTKocAAAAJ:WF5omc3nYNoC"></span></strong></p>
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2024</div><img src='images/CSCW2024.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/CSCW2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Research: AI as a Bridge Across Ages: Exploring The Opportunities of Artificial Intelligence in Supporting Inter-Generational Communication in Virtual Reality** 
@@ -66,9 +66,9 @@ redirect_from:
 
 <p style="margin-top: 10px;"><strong style="color: #0b2cd0">Qiuxin Du*</strong>, Xiaoying Wei*, Jiawei Li, Jie Hao, Emily Kuang, Dongdong Weng, Mingming Fan</p>
 
-<p style="margin-top: 20px;">Developed an AI-powered VR system using UE for inter-generational communication (IGC), integrating LLM, Text2Image, scene switching, and emotional visualization based on keyword detection technology. Conducted a user study with 12 pairs participants, revealing the advantages and challenges of AI-powered VR for IGC.</p>
+<p style="margin-top: 20px;">We developed a AI-powered VR game using UE aiming at bridging the gaps in inter-generational communication, which integrated the following AI features: LLM for the silence and awkwardness in communication, Text2Image for easy to express and easy to learn, Emotion visualization in VR avatars for bridging subtle emotional expressions and facilitating the development of closer relationships, Scene generation for enhanced focus and mood regulation. And then we conducted a probe-based participatory design study with twelve inter-generational pairs. </p>
 
-<p style="margin-top: 10px;">Paper | <a href="https://drive.google.com/drive/home" target="_blank" style="color: #0b2cd0;text-decoration: none">Video</a> | Code | BibTex <strong><span class="show_paper_citations" data="3WQTKocAAAAJ:WF5omc3nYNoC"></span></strong></p>
+<p style="margin-top: 20px;"><a href="https://arxiv.org/abs/2410.17909" target="_blank" style="color: #0b2cd0;text-decoration: none">Paper</a> | <a href="https://drive.google.com/drive/home" target="_blank" style="color: #0b2cd0;text-decoration: none">Video</a> | Code | BibTex <strong><span class="show_paper_citations" data="3WQTKocAAAAJ:WF5omc3nYNoC"></span></strong></p>
 
 </div>
 </div>
