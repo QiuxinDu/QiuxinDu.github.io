@@ -59,7 +59,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/CSCW2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Research: AI as a Bridge Across Ages: Exploring The Opportunities of Artificial Intelligence in Supporting Inter-Generational Communication in Virtual Reality** 
+**AI as a Bridge Across Ages: Exploring The Opportunities of Artificial Intelligence in Supporting Inter-Generational Communication in Virtual Reality** 
   
 <p style="margin-top: 10px;">CSCW 2025</p>
 
@@ -69,6 +69,24 @@ redirect_from:
 <p style="margin-top: 20px;">We developed a AI-powered VR game using UE aiming at bridging the gaps in inter-generational communication, which integrated the following AI features: LLM for the silence and awkwardness in communication, Text2Image for easy to express and easy to learn, Emotion visualization in VR avatars for bridging subtle emotional expressions and facilitating the development of closer relationships, Scene generation for enhanced focus and mood regulation. And then we conducted a probe-based participatory design study with twelve inter-generational pairs. </p>
 
 <p style="margin-top: 20px;"><a href="https://arxiv.org/abs/2410.17909" target="_blank" style="color: #0b2cd0;text-decoration: none">Paper</a> | <a href="https://drive.google.com/drive/home" target="_blank" style="color: #0b2cd0;text-decoration: none">Video</a> | Code | BibTex <strong><span class="show_paper_citations" data="3WQTKocAAAAJ:WF5omc3nYNoC"></span></strong></p>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICXR 2024</div><img src='images/motion.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Motion Generation Review: Exploring Deep Learning for Lifelike Animation with Manifold** 
+  
+<p style="margin-top: 10px;">ICXR 2024</p>
+
+
+<p style="margin-top: 10px;">Jiayi Zhao, Dongdong Weng*, <strong style="color: #0b2cd0">Qiuxin Du</strong>, Zeyu Tian</p>
+
+<p style="margin-top: 20px;">Human motion generation involves creating natural sequences of human body poses, aiming to produce lifelike virtual characters with realistic movements, enhancing virtual agents and immersive experiences. We present a comprehensive overview of manifold applications in human motion generation, and explore methods for extracting manifolds from unstructured data, their application in motion generation, and discuss their advantages and future directions. </p>
+
+<p style="margin-top: 20px;"> Paper | Video | Code | BibTex <strong><span class="show_paper_citations" data="3WQTKocAAAAJ:WF5omc3nYNoC"></span></strong></p>
 
 </div>
 </div>
