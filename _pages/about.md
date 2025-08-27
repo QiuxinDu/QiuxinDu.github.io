@@ -29,7 +29,7 @@ redirect_from:
 
 # 🔥 News
 
-- *2025.08*: &nbsp;🎉🎉 Our work Optimizing Locomotion Techniques in Virtual Reality was accepted by Visual Computer Journal.
+- *2025.08*: &nbsp;🎉🎉 Our work Optimizing Locomotion Techniques in Virtual Reality was accepted by <a href="https://link.springer.com/journal/371" target="_blank" style="color: #0b2cd0;text-decoration: none">Visual Computer</a>.
 - *2024.12*: &nbsp;🎉🎉 Our work AI-administered Neurocognitive Disorder Screening submitted to <a href="https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies" target="_blank" style="color: #0b2cd0;text-decoration: none">IJHCS</a>.
 - *2024.10*: &nbsp;🎉🎉 Our work <a href="https://link.springer.com/chapter/10.1007/978-981-96-3679-2_1" target="_blank" style="color: #0b2cd0;text-decoration: none">Motion Generation Review</a> was accepted by <a href="https://icxr.net/2024/index.html" target="_blank" style="color: #0b2cd0;text-decoration: none">ICXR 2024</a>. 
 - *2024.09*: &nbsp;🎉🎉 Our work <a href="https://dl.acm.org/doi/abs/10.1145/3710924" target="_blank" style="color: #0b2cd0;text-decoration: none">AI as a Bridge Across Ages</a> was accepted by <a href="https://cscw.acm.org/2025/" target="_blank" style="color: #0b2cd0;text-decoration: none">CSCW 2025</a>.  
