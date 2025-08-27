@@ -31,10 +31,8 @@ redirect_from:
 - *2024.12*: &nbsp;🎉🎉 Our work AI-administered Neurocognitive Disorder Screening submitted to <a href="https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies" target="_blank" style="color: #0b2cd0;text-decoration: none">IJHCS</a>.
 - *2024.10*: &nbsp;🎉🎉 Our work <a href="https://link.springer.com/chapter/10.1007/978-981-96-3679-2_1" target="_blank" style="color: #0b2cd0;text-decoration: none">Motion Generation Review</a> was accepted by <a href="https://icxr.net/2024/index.html" target="_blank" style="color: #0b2cd0;text-decoration: none">ICXR 2024</a>. 
 - *2024.09*: &nbsp;🎉🎉 Our work <a href="https://dl.acm.org/doi/abs/10.1145/3710924" target="_blank" style="color: #0b2cd0;text-decoration: none">AI as a Bridge Across Ages</a> was accepted by <a href="https://cscw.acm.org/2025/" target="_blank" style="color: #0b2cd0;text-decoration: none">CSCW 2025</a>.  
-- *2024.07*: &nbsp;🎉🎉 One paper submitted to <a href="https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=hihc20" target="_blank" style="color: #0b2cd0;text-decoration: none">IJHCI</a>. 
 - *2024.05*: &nbsp;🎉🎉 I have spent a wonderful week at <a href="https://ieeevr.org/2023/" target="_blank" style="color: #0b2cd0;text-decoration: none">CHI 2024</a> in Hawaii. It was my pleasure to present <a href="https://dl.acm.org/doi/abs/10.1145/3613904.3642187" target="_blank" style="color: #0b2cd0;text-decoration: none">my work</a> as well as meet many new friends!
 - *2024.01*: &nbsp;🎉🎉 Our work <a href="https://dl.acm.org/doi/abs/10.1145/3613904.3642187" target="_blank" style="color: #0b2cd0;text-decoration: none">LightSword</a> was accepted by <a href="https://chi2024.acm.org/" target="_blank" style="color: #0b2cd0;text-decoration: none">CHI 2024</a>. 
-- *2024.01*: &nbsp;🎉🎉 One paper submitted to <a href="https://cscw.acm.org/2024/" target="_blank" style="color: #0b2cd0;text-decoration: none">CSCW 2024</a>. 
 - *2023.03*: &nbsp;🎉🎉 I have spent a wonderful week at <a href="https://ieeevr.org/2023/" target="_blank" style="color: #0b2cd0;text-decoration: none">IEEE VR 2023</a> in Shanghai.
 - *2022.08*: &nbsp;🎉🎉 One paper is accepted by <a href="https://ismar2022.vgtc.org/" target="_blank" style="color: #0b2cd0;text-decoration: none">ISMAR 2022</a> as a poster.
 
@@ -75,7 +73,8 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/manyou.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Visual Computer</div><img src='images/manyou.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Optimizing Locomotion Techniques in Virtual Reality: A Comparative Analysis of Posture, Interaction Freedom, and Methods** 
@@ -100,7 +99,7 @@ redirect_from:
 <p style="margin-top: 10px;">ICXR 2024</p>
 
 
-<p style="margin-top: 10px;">Jiayi Zhao, Dongdong Weng*, <strong style="color: #0b2cd0">Qiuxin Du</strong>, Zeyu Tian</p>
+<p style="margin-top: 10px;">Jiayi Zhao, Dongdong Weng, <strong style="color: #0b2cd0">Qiuxin Du</strong>, Zeyu Tian</p>
 
 <p style="margin-top: 20px;">Human motion generation involves creating natural sequences of human body poses, aiming to produce lifelike virtual characters with realistic movements, enhancing virtual agents and immersive experiences. We present a comprehensive overview of manifold applications in human motion generation, and explore methods for extracting manifolds from unstructured data, their application in motion generation, and discuss their advantages and future directions. </p>
 
