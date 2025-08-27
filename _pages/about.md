@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👩‍🎓 About Me
-<p style="line-height: 1.7">I am a full-time Research Assistant at <a href="https://www.comp.nus.edu.sg/" target="_blank" style="color: #0b2cd0;text-decoration: none">NUS SOC</a>, advised by <a href="https://www.comp.nus.edu.sg/cs/people/wangye/" target="_blank" style="color: #0b2cd0;text-decoration: none">Prof. Ye Wang</a>. Previously, I was a research intern at <a href="https://hkust.edu.hk/" target="_blank" style="color: #0b2cd0;text-decoration: none">HKUST</a>, supervised by <a href="https://scholar.google.com/citations?user=DCRUAmAAAAAJ&amp;hl=en" target="_blank" style="color: #0b2cd0;text-decoration: none">Xiaojuan Ma</a>. I obtained master's degree in the VR Lab at <a href="https://www.bit.edu.cn/" target="_blank" style="    color: #0b2cd0;text-decoration: none">Beijing Institute of Technology</a>, advised by <a href="https://scholar.google.com/citations?user=DCRUAmAAAAAJ&amp;hl=en" target="_blank" style="color: #0b2cd0;text-decoration: none">Prof. Dongdong Weng</a>, majoring in Virtual Reality and Human-Computer Interaction. Prior to master, I obtained bachelor's degree in Computer Science and technology at <a href="http://www.zzu.edu.cn/" target="_blank" style="color: #0b2cd0;text-decoration: none">Zhengzhou University</a> in 2021.</p>
+<p style="line-height: 1.7">I am a full-time Research Assistant at <a href="https://www.comp.nus.edu.sg/" target="_blank" style="color: #0b2cd0;text-decoration: none">NUS SOC</a>. Previously, I was a research intern at <a href="https://hkust.edu.hk/" target="_blank" style="color: #0b2cd0;text-decoration: none">HKUST</a>, supervised by <a href="https://scholar.google.com/citations?user=DCRUAmAAAAAJ&amp;hl=en" target="_blank" style="color: #0b2cd0;text-decoration: none">Xiaojuan Ma</a>. I obtained master's degree in the VR Lab at <a href="https://www.bit.edu.cn/" target="_blank" style="    color: #0b2cd0;text-decoration: none">Beijing Institute of Technology</a>, advised by <a href="https://scholar.google.com/citations?user=DCRUAmAAAAAJ&amp;hl=en" target="_blank" style="color: #0b2cd0;text-decoration: none">Prof. Dongdong Weng</a>, majoring in Virtual Reality and Human-Computer Interaction. Prior to master, I obtained bachelor's degree in Computer Science and technology at <a href="http://www.zzu.edu.cn/" target="_blank" style="color: #0b2cd0;text-decoration: none">Zhengzhou University</a> in 2021.</p>
 
 <p style="line-height: 1.7">I attended the HCIX Research Club and became a Research Assistant at the <a href="https://apex-group-hkust.netlify.app/" target="_blank" style="color: #0b2cd0;text-decoration: none">APEX Lab of HKUST</a> in 2023, supervised by <a href="https://www.mingmingfan.com/" target="_blank" style="color: #0b2cd0;text-decoration: none">Prof. Mingming Fan</a>, independently supporting a HCI project. Before this, I was an intern in Light Illusions supervised by <a href="https://ece.hkust.edu.hk/pingtan" target="_blank" style="color: #0b2cd0;text-decoration: none">Prof. Ping Tan</a> from June to August in 2023.</p>
 
@@ -27,7 +27,7 @@ redirect_from:
 
 # 🔥 News
 
-- *2025.04*: &nbsp;🎉🎉 I became a full-time Research Assistant at <a href="https://www.comp.nus.edu.sg/" target="_blank" style="color: #0b2cd0;text-decoration: none">NUS SOC</a>, advised by <a href="https://www.comp.nus.edu.sg/cs/people/wangye/" target="_blank" style="color: #0b2cd0;text-decoration: none">Prof. Ye Wang</a>.  
+- *2025.08*: &nbsp;🎉🎉 Our work Optimizing Locomotion Techniques in Virtual Reality was accepted by Visual Computer Journal.
 - *2024.12*: &nbsp;🎉🎉 Our work AI-administered Neurocognitive Disorder Screening submitted to <a href="https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies" target="_blank" style="color: #0b2cd0;text-decoration: none">IJHCS</a>.
 - *2024.10*: &nbsp;🎉🎉 Our work <a href="https://link.springer.com/chapter/10.1007/978-981-96-3679-2_1" target="_blank" style="color: #0b2cd0;text-decoration: none">Motion Generation Review</a> was accepted by <a href="https://icxr.net/2024/index.html" target="_blank" style="color: #0b2cd0;text-decoration: none">ICXR 2024</a>. 
 - *2024.09*: &nbsp;🎉🎉 Our work <a href="https://dl.acm.org/doi/abs/10.1145/3710924" target="_blank" style="color: #0b2cd0;text-decoration: none">AI as a Bridge Across Ages</a> was accepted by <a href="https://cscw.acm.org/2025/" target="_blank" style="color: #0b2cd0;text-decoration: none">CSCW 2025</a>.  
@@ -75,6 +75,22 @@ redirect_from:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/manyou.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Optimizing Locomotion Techniques in Virtual Reality: A Comparative Analysis of Posture, Interaction Freedom, and Methods** 
+
+<p style="margin-top: 8px;">Accepted by Visual Computer</p>
+
+<p style="margin-top: 8px;">Jie Hao, <strong style="color: #0b2cd0">Qiuxin Du</strong>, Ming Li, Bin Liang, Jie Guo, Dongdong Weng, Yongtian Wang</p>
+
+<p style="margin-top: 8px;">Using SSQ data and ECG signals to investigate the effects of body posture, interaction freedom, and locomotion method on user experience and cognitive load in VR, focusing on cybersickness, sense of presence, and workload.</p>
+
+<p style="margin-top: 10px;">Paper | <a href="https://drive.google.com/drive/home" target="_blank" style="color: #0b2cd0;text-decoration: none">Video</a> | Code | BibTex <strong><span class="show_paper_citations" data="3WQTKocAAAAJ:WF5omc3nYNoC"></span></strong></p>
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICXR 2024</div><img src='images/motion.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -96,23 +112,6 @@ redirect_from:
 
 # 📖 Projects
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/manyou.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Exploration of Game Roaming in Virtual Environments: The Interplay of Posture, Interaction Freedom, and Locomotion** 
-
-<p style="margin-top: 8px;">Submitted to IJHCI</p>
-
-<p style="margin-top: 8px;">Jie Hao, <strong style="color: #0b2cd0">Qiuxin Du</strong>, Ming Li, Bin Liang, Jie Guo, Dongdong Weng, Yongtian Wang</p>
-
-<p style="margin-top: 8px;">Using SSQ data and ECG signals to investigate the effects of body posture, interaction freedom, and locomotion method on user experience and cognitive load in VR, focusing on cybersickness, sense of presence, and workload.</p>
-
-<p style="margin-top: 10px;">Paper | <a href="https://drive.google.com/drive/home" target="_blank" style="color: #0b2cd0;text-decoration: none">Video</a> | Code | BibTex <strong><span class="show_paper_citations" data="3WQTKocAAAAJ:WF5omc3nYNoC"></span></strong></p>
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='assets/gif/eva.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
