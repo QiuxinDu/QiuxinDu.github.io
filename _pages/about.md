@@ -80,7 +80,7 @@ redirect_from:
 
 **Optimizing Locomotion Techniques in Virtual Reality: A Comparative Analysis of Posture, Interaction Freedom, and Methods** 
 
-<p style="margin-top: 8px;">Accepted by Visual Computer</p>
+<p style="margin-top: 8px;">Visual Computer</p>
 
 <p style="margin-top: 8px;">Jie Hao, <strong style="color: #0b2cd0">Qiuxin Du</strong>, Ming Li, Bin Liang, Jie Guo, Dongdong Weng, Yongtian Wang</p>
 
