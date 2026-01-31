@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Qiuxin Du (杜秋欣)" 
-  avatar           : "images/qiuxin.jpg"
-  bio              : "Beijing Institute of Technology (BIT)"
-  location         : "Beijing, China"
+  avatar           : "images/qiuxindu.jpg"
+  bio              : "University College London"
+  location         : "London, UK"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=IxK7cnAAAAAJ"
-  email            : "qiuxindu@gmail.com"
+  email            : "qiuxindu@gmail.com, qiuxin.du.25@ucl.ac.uk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
