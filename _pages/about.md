@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👩‍🎓 About Me
-<p style="line-height: 1.7">Previously, I am a full-time Research Assistant at <a href="https://www.comp.nus.edu.sg/" target="_blank" style="color: #0b2cd0;text-decoration: none">NUS SOC</a> in 2025. I was a research intern at <a href="https://hkust.edu.hk/" target="_blank" style="color: #0b2cd0;text-decoration: none">HKUST</a>, supervised by <a href="https://scholar.google.com/citations?user=DCRUAmAAAAAJ&amp;hl=en" target="_blank" style="color: #0b2cd0;text-decoration: none">Xiaojuan Ma</a> in 2024.</p> 
+<p style="line-height: 1.7">I am a Ph.D. student at <a href="https://www.ucl.ac.uk/uclic/" target="_blank" style="color: #0b2cd0;text-decoration: none">UCLIC (UCL Interaction Cnter)</a>, supervised by <a href="https://profiles.ucl.ac.uk/51809-amid-ayobi" target="_blank" style="color: #0b2cd0;text-decoration: none">Dr. Amid Ayobi</a>.</p>
 
 <p style="line-height: 1.7">I obtained master's degree in the VR Lab at <a href="https://www.bit.edu.cn/" target="_blank" style="    color: #0b2cd0;text-decoration: none">Beijing Institute of Technology</a>, advised by <a href="https://scholar.google.com/citations?user=DCRUAmAAAAAJ&amp;hl=en" target="_blank" style="color: #0b2cd0;text-decoration: none">Prof. Dongdong Weng</a>, majoring in Virtual Reality and Human-Computer Interaction. Prior to master, I obtained bachelor's degree in Computer Science and technology at <a href="http://www.zzu.edu.cn/" target="_blank" style="color: #0b2cd0;text-decoration: none">Zhengzhou University</a> in 2021.</p>
 
