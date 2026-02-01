@@ -20,15 +20,15 @@ redirect_from:
 # 👩‍🎓 About Me
 <p style="line-height: 1.7">I am a Ph.D. student at <a href="https://www.ucl.ac.uk/uclic/" target="_blank" style="color: #0b2cd0;text-decoration: none">UCLIC (UCL Interaction Center)</a>, supervised by <a href="https://profiles.ucl.ac.uk/51809-amid-ayobi" target="_blank" style="color: #0b2cd0;text-decoration: none">Dr. Amid Ayobi</a>.</p>
 
-<p style="line-height: 1.7">I obtained master's degree in the VR Lab at <a href="https://www.bit.edu.cn/" target="_blank" style="    color: #0b2cd0;text-decoration: none">Beijing Institute of Technology</a>, advised by <a href="https://scholar.google.com/citations?user=DCRUAmAAAAAJ&amp;hl=en" target="_blank" style="color: #0b2cd0;text-decoration: none">Prof. Dongdong Weng</a>, majoring in Virtual Reality and Human-Computer Interaction. Prior to master, I obtained bachelor's degree in Computer Science and technology at <a href="http://www.zzu.edu.cn/" target="_blank" style="color: #0b2cd0;text-decoration: none">Zhengzhou University</a> in 2021.</p>
+<p style="line-height: 1.7">I obtained master's degree in the VR Lab at <a href="https://www.bit.edu.cn/" target="_blank" style="    color: #0b2cd0;text-decoration: none">Beijing Institute of Technology</a>, advised by <a href="https://scholar.google.com/citations?user=DCRUAmAAAAAJ&amp;hl=en" target="_blank" style="color: #0b2cd0;text-decoration: none">Dr. Dongdong Weng</a>, majoring in Virtual Reality and Human-Computer Interaction. Prior to master, I obtained bachelor's degree in Computer Science and technology at <a href="http://www.zzu.edu.cn/" target="_blank" style="color: #0b2cd0;text-decoration: none">Zhengzhou University</a> in 2021.</p>
 
 
 <p style="line-height: 1.7">My current research interest lies in <strong style="color: #0b2cd0">Human-AI Collaboration for Digital Health</strong>, focusing on inferring health status by detecting human behaviors and physiological signals, and providing appropriate digital interventions.</p> 
 
 <p style="line-height: 1.7">I have spent many colorful summers in different places.
 In 2025, I worked as a full-time Research Assistant at <a href="https://www.comp.nus.edu.sg/" target="_blank" style="color: #0b2cd0;text-decoration: none">NUS SOC</a>. 
-In 2024, I was a research intern at <a href="https://hkust.edu.hk/" target="_blank" style="color: #0b2cd0;text-decoration: none">HKUST</a>, supervised by <a href="https://scholar.google.com/citations?user=DCRUAmAAAAAJ&amp;hl=en" target="_blank" style="color: #0b2cd0;text-decoration: none">Xiaojuan Ma</a>. 
-In 2023, I attended the HCIX Research Club at the <a href="https://apex-group-hkust.netlify.app/" target="_blank" style="color: #0b2cd0;text-decoration: none">APEX Lab of HKUST</a>, supervised by <a href="https://www.mingmingfan.com/" target="_blank" style="color: #0b2cd0;text-decoration: none">Prof. Mingming Fan</a>, independently supporting a HCI project.</p>
+In 2024, I was a research intern at <a href="https://hkust.edu.hk/" target="_blank" style="color: #0b2cd0;text-decoration: none">HKUST</a>, supervised by <a href="https://scholar.google.com/citations?user=DCRUAmAAAAAJ&amp;hl=en" target="_blank" style="color: #0b2cd0;text-decoration: none">Dr. Xiaojuan Ma</a>. 
+In 2023, I attended the HCIX Research Club at the <a href="https://apex-group-hkust.netlify.app/" target="_blank" style="color: #0b2cd0;text-decoration: none">APEX Lab of HKUST</a>, supervised by <a href="https://www.mingmingfan.com/" target="_blank" style="color: #0b2cd0;text-decoration: none">Dr. Mingming Fan</a>, independently supporting a HCI project.</p>
 
 
 
