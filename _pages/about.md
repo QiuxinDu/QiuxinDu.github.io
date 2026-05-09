@@ -35,14 +35,14 @@ In 2023, I attended the HCIX Research Club at the <a href="https://apex-group-hk
 
 # 🔥 News
 
+- *2026.05*: &nbsp;🎉🎉 Our work Optimizing Locomotion Techniques in Virtual Reality was accepted by <a href="https://link.springer.com/journal/371" target="_blank" style="color: #0b2cd0;text-decoration: none">Visual Computer</a>.
+- *2026.02*: &nbsp;🎉🎉 I started PhD at UCL.
 - *2025.08*: &nbsp;🎉🎉 Our work Optimizing Locomotion Techniques in Virtual Reality was accepted by <a href="https://link.springer.com/journal/371" target="_blank" style="color: #0b2cd0;text-decoration: none">Visual Computer</a>.
 - *2024.12*: &nbsp;🎉🎉 Our work AI-administered Neurocognitive Disorder Screening submitted to <a href="https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies" target="_blank" style="color: #0b2cd0;text-decoration: none">IJHCS</a>.
 - *2024.10*: &nbsp;🎉🎉 Our work <a href="https://link.springer.com/chapter/10.1007/978-981-96-3679-2_1" target="_blank" style="color: #0b2cd0;text-decoration: none">Motion Generation Review</a> was accepted by <a href="https://icxr.net/2024/index.html" target="_blank" style="color: #0b2cd0;text-decoration: none">ICXR 2024</a>. 
 - *2024.09*: &nbsp;🎉🎉 Our work <a href="https://dl.acm.org/doi/abs/10.1145/3710924" target="_blank" style="color: #0b2cd0;text-decoration: none">AI as a Bridge Across Ages</a> was accepted by <a href="https://cscw.acm.org/2025/" target="_blank" style="color: #0b2cd0;text-decoration: none">CSCW 2025</a>.  
 - *2024.05*: &nbsp;🎉🎉 I have spent a wonderful week at <a href="https://ieeevr.org/2023/" target="_blank" style="color: #0b2cd0;text-decoration: none">CHI 2024</a> in Hawaii. It was my pleasure to present <a href="https://dl.acm.org/doi/abs/10.1145/3613904.3642187" target="_blank" style="color: #0b2cd0;text-decoration: none">my work</a> as well as meet many new friends!
 - *2024.01*: &nbsp;🎉🎉 Our work <a href="https://dl.acm.org/doi/abs/10.1145/3613904.3642187" target="_blank" style="color: #0b2cd0;text-decoration: none">LightSword</a> was accepted by <a href="https://chi2024.acm.org/" target="_blank" style="color: #0b2cd0;text-decoration: none">CHI 2024</a>. 
-- *2023.03*: &nbsp;🎉🎉 I have spent a wonderful week at <a href="https://ieeevr.org/2023/" target="_blank" style="color: #0b2cd0;text-decoration: none">IEEE VR 2023</a> in Shanghai.
-- *2022.08*: &nbsp;🎉🎉 One paper is accepted by <a href="https://ismar2022.vgtc.org/" target="_blank" style="color: #0b2cd0;text-decoration: none">ISMAR 2022</a> as a poster.
 
 
 # 📝 Publications 
