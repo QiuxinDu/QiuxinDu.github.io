@@ -35,7 +35,7 @@ In 2023, I attended the HCIX Research Club at the <a href="https://apex-group-hk
 
 # 🔥 News
 
-- *2026.05*: &nbsp;🎉🎉 Our work Optimizing Locomotion Techniques in Virtual Reality was accepted by <a href="https://link.springer.com/journal/371" target="_blank" style="color: #0b2cd0;text-decoration: none">Visual Computer</a>.
+- *2026.05*: &nbsp;🎉🎉 Our work Is Conversational AI Taking Control? was accepted by <a href="[https://link.springer.com/journal/371" target="_blank](https://cui.acm.org/2026/submission/provocations/)" style="color: #0b2cd0;text-decoration: none">CUI 2026</a>.
 - *2026.02*: &nbsp;🎉🎉 I started PhD at UCL.
 - *2025.08*: &nbsp;🎉🎉 Our work Optimizing Locomotion Techniques in Virtual Reality was accepted by <a href="https://link.springer.com/journal/371" target="_blank" style="color: #0b2cd0;text-decoration: none">Visual Computer</a>.
 - *2024.12*: &nbsp;🎉🎉 Our work AI-administered Neurocognitive Disorder Screening submitted to <a href="https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies" target="_blank" style="color: #0b2cd0;text-decoration: none">IJHCS</a>.
