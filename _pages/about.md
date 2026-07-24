@@ -23,7 +23,7 @@ redirect_from:
 <p style="line-height: 1.7">I obtained master's degree in the VR Lab at <a href="https://www.bit.edu.cn/" target="_blank" style="    color: #0b2cd0;text-decoration: none">Beijing Institute of Technology</a>, advised by <a href="https://scholar.google.com/citations?user=DCRUAmAAAAAJ&amp;hl=en" target="_blank" style="color: #0b2cd0;text-decoration: none">Dr. Dongdong Weng</a>, majoring in Virtual Reality and Human-Computer Interaction. Prior to master, I obtained bachelor's degree in Computer Science and technology at <a href="http://www.zzu.edu.cn/" target="_blank" style="color: #0b2cd0;text-decoration: none">Zhengzhou University</a> in 2021.</p>
 
 
-<p style="line-height: 1.7">My current research interest lies in <strong style="color: #0b2cd0">Human-AI Collaboration for Digital Health</strong>, focusing on inferring health status by detecting human behaviors and physiological signals, and providing appropriate digital interventions.</p> 
+<p style="line-height: 1.7">My current research interest lies in <strong style="color: #0b2cd0">Human-AI Collaboration for Digital Health</strong>. Specifically, I would like to explore how multiple specialized agents coordinate reasoning across multimodal health data, contextual memory, and reflective self-tracking experiences to support adaptive self-management.</p> 
 
 <p style="line-height: 1.7">I have spent many colorful summers in different places.
 In 2025, I worked as a full-time Research Assistant at <a href="https://www.comp.nus.edu.sg/" target="_blank" style="color: #0b2cd0;text-decoration: none">NUS SOC</a>. 
